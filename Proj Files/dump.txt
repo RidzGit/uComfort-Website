@@ -1,0 +1,47 @@
+<nav class="navbar navbar-*">
+    <div>
+        <a class="navbar-brand" href="#">
+            <img src="" alt="" width="" height="" alt="">
+        </a>
+    </div>
+</nav>
+
+
+#logo {
+  float: left;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+div {
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+transform: rotateY(20deg) skewX(-2deg);
+
+justify-content: space-between;
+
+#edd4d9
+
+#eba1cb
+
+#aa7292
